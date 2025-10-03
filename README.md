@@ -15,7 +15,7 @@
 ### ¡Hola! Soy JackyrDC
 
 - Estudiante de Ingeniería en Sistemas
-- Apunto a ser programador **Fullstack**
+- A punto a ser programador **Fullstack**
 - Mis mejores habilidades son con **Javascript**
 - Manejo **Typescript, Express, React, Tailwind, y Vue**
 - Backend: **C# con Entity Framework y Pocketbase**
