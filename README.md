@@ -20,7 +20,7 @@
 - Manejo **Typescript, Express, React, Tailwind, y Vue**
 - Backend: **C# con Entity Framework y Pocketbase**
 - Bases de datos: **PostgreSQL, MySQL, SQL Server, MongoDB**
-- Hondureño | Músico | Católico
+- Hondureño | Músico 
 - Cantante & Guitarrista
 
 Cada uno de mis repos favoritos es como una de mis "canciones":
@@ -55,7 +55,7 @@ Cada uno de mis repos favoritos es como una de mis "canciones":
 - Comfortable with **Typescript, Express, React, Tailwind, and Vue**
 - Backend: **C# with Entity Framework and Pocketbase**
 - Databases: **PostgreSQL, MySQL, SQL Server, MongoDB**
-- Honduran | Musician | Catholic
+- Honduran | Musician 
 - Singer & Guitarist
 
 Each of my favorite repositories is like one of my "songs":
